@@ -1,0 +1,261 @@
+{
+  "id" : "48374d51-8c8d-4825-b295-0075c709c56a",
+  "audio_url" : "https://cdn.assemblyai.com/upload/7083903a-8726-494f-8e82-2750c4887b3b",
+  "status" : "completed",
+  "language_code" : "en_us",
+  "language_detection" : false,
+  "text" : "The stale smell of old beer lingers. It takes heat to bring out the odor. A cold dip restores health and zest. A salt pickle tastes fine with ham. Tacos al pastor are my favorite. A zestful food is the hot cross bun.",
+  "words" : [ {
+    "confidence" : 0.99928,
+    "start" : 1360,
+    "end" : 1472,
+    "text" : "The"
+  }, {
+    "confidence" : 0.51936,
+    "start" : 1472,
+    "end" : 1848,
+    "text" : "stale"
+  }, {
+    "confidence" : 0.78766,
+    "start" : 1896,
+    "end" : 2216,
+    "text" : "smell"
+  }, {
+    "confidence" : 0.99994,
+    "start" : 2248,
+    "end" : 2392,
+    "text" : "of"
+  }, {
+    "confidence" : 0.59277,
+    "start" : 2416,
+    "end" : 2648,
+    "text" : "old"
+  }, {
+    "confidence" : 0.71838,
+    "start" : 2704,
+    "end" : 3064,
+    "text" : "beer"
+  }, {
+    "confidence" : 0.99997,
+    "start" : 3112,
+    "end" : 3976,
+    "text" : "lingers."
+  }, {
+    "confidence" : 0.99965,
+    "start" : 4168,
+    "end" : 4520,
+    "text" : "It"
+  }, {
+    "confidence" : 0.99995,
+    "start" : 4560,
+    "end" : 4856,
+    "text" : "takes"
+  }, {
+    "confidence" : 0.99993,
+    "start" : 4888,
+    "end" : 5144,
+    "text" : "heat"
+  }, {
+    "confidence" : 0.99986,
+    "start" : 5192,
+    "end" : 5352,
+    "text" : "to"
+  }, {
+    "confidence" : 0.99996,
+    "start" : 5376,
+    "end" : 5560,
+    "text" : "bring"
+  }, {
+    "confidence" : 0.99993,
+    "start" : 5600,
+    "end" : 5752,
+    "text" : "out"
+  }, {
+    "confidence" : 0.9995,
+    "start" : 5776,
+    "end" : 5912,
+    "text" : "the"
+  }, {
+    "confidence" : 0.99913,
+    "start" : 5936,
+    "end" : 6680,
+    "text" : "odor."
+  }, {
+    "confidence" : 0.99987,
+    "start" : 6840,
+    "end" : 7112,
+    "text" : "A"
+  }, {
+    "confidence" : 0.6224,
+    "start" : 7136,
+    "end" : 7432,
+    "text" : "cold"
+  }, {
+    "confidence" : 0.99992,
+    "start" : 7496,
+    "end" : 7928,
+    "text" : "dip"
+  }, {
+    "confidence" : 0.99982,
+    "start" : 8024,
+    "end" : 8456,
+    "text" : "restores"
+  }, {
+    "confidence" : 0.99941,
+    "start" : 8488,
+    "end" : 8680,
+    "text" : "health"
+  }, {
+    "confidence" : 0.7309,
+    "start" : 8720,
+    "end" : 8968,
+    "text" : "and"
+  }, {
+    "confidence" : 0.99919,
+    "start" : 9024,
+    "end" : 9640,
+    "text" : "zest."
+  }, {
+    "confidence" : 0.99775,
+    "start" : 9800,
+    "end" : 10120,
+    "text" : "A"
+  }, {
+    "confidence" : 0.99965,
+    "start" : 10160,
+    "end" : 10456,
+    "text" : "salt"
+  }, {
+    "confidence" : 0.83495,
+    "start" : 10488,
+    "end" : 10984,
+    "text" : "pickle"
+  }, {
+    "confidence" : 0.99909,
+    "start" : 11032,
+    "end" : 11336,
+    "text" : "tastes"
+  }, {
+    "confidence" : 0.99984,
+    "start" : 11368,
+    "end" : 11576,
+    "text" : "fine"
+  }, {
+    "confidence" : 0.99983,
+    "start" : 11608,
+    "end" : 11752,
+    "text" : "with"
+  }, {
+    "confidence" : 0.99152,
+    "start" : 11776,
+    "end" : 12312,
+    "text" : "ham."
+  }, {
+    "confidence" : 0.9982,
+    "start" : 12456,
+    "end" : 12936,
+    "text" : "Tacos"
+  }, {
+    "confidence" : 0.98959,
+    "start" : 12968,
+    "end" : 13160,
+    "text" : "al"
+  }, {
+    "confidence" : 0.99819,
+    "start" : 13200,
+    "end" : 13672,
+    "text" : "pastor"
+  }, {
+    "confidence" : 0.99956,
+    "start" : 13736,
+    "end" : 13864,
+    "text" : "are"
+  }, {
+    "confidence" : 0.99953,
+    "start" : 13872,
+    "end" : 13992,
+    "text" : "my"
+  }, {
+    "confidence" : 0.69921,
+    "start" : 14016,
+    "end" : 14728,
+    "text" : "favorite."
+  }, {
+    "confidence" : 0.99783,
+    "start" : 14904,
+    "end" : 15192,
+    "text" : "A"
+  }, {
+    "confidence" : 0.99248,
+    "start" : 15216,
+    "end" : 15656,
+    "text" : "zestful"
+  }, {
+    "confidence" : 0.99924,
+    "start" : 15688,
+    "end" : 16024,
+    "text" : "food"
+  }, {
+    "confidence" : 0.99956,
+    "start" : 16112,
+    "end" : 16360,
+    "text" : "is"
+  }, {
+    "confidence" : 0.99903,
+    "start" : 16400,
+    "end" : 16552,
+    "text" : "the"
+  }, {
+    "confidence" : 0.99974,
+    "start" : 16576,
+    "end" : 16760,
+    "text" : "hot"
+  }, {
+    "confidence" : 0.99752,
+    "start" : 16800,
+    "end" : 17144,
+    "text" : "cross"
+  }, {
+    "confidence" : 0.62028,
+    "start" : 17192,
+    "end" : 17400,
+    "text" : "bun."
+  } ],
+  "confidence" : 0.93207836,
+  "audio_duration" : 19,
+  "punctuate" : true,
+  "format_text" : true,
+  "disfluencies" : false,
+  "webhook_auth" : false,
+  "speed_boost" : false,
+  "auto_highlights" : false,
+  "word_boost" : [ ],
+  "filter_profanity" : false,
+  "redact_pii" : false,
+  "redact_pii_audio" : false,
+  "speaker_labels" : false,
+  "content_safety" : false,
+  "content_safety_labels" : {
+    "status" : "unavailable",
+    "results" : [ ],
+    "summary" : { },
+    "severity_score_summary" : { }
+  },
+  "iab_categories" : false,
+  "iab_categories_result" : {
+    "status" : "unavailable",
+    "results" : [ ],
+    "summary" : { }
+  },
+  "auto_chapters" : false,
+  "summarization" : false,
+  "custom_topics" : false,
+  "topics" : [ ],
+  "sentiment_analysis" : false,
+  "entity_detection" : false,
+  "throttled" : false,
+  "language_model" : "assemblyai_default",
+  "acoustic_model" : "assemblyai_default",
+  "is_deleted" : null,
+  "custom_topics_results" : null
+}
